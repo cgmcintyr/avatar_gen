@@ -4,7 +4,7 @@ import os
 import sys
 
 sys.path.append("..")
-import avatme 
+import avatar_gen
 
 usernames = ["testuser", "chrsintyre", "username", "underscore_________"]
 
